@@ -1,20 +1,36 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ⚔️ AI Fantasy Character Generator
 
-# Run and deploy your AI Studio app
+> An AI-powered D&D style fantasy character creator with stunning visuals and collectible cards.
 
-This contains everything you need to run your app locally.
+**🔗 GitHub:** github.com/Anushkayadav2006/fantasy-character-generator
+**🛠️ Tech Stack:** React, TypeScript, Google Gemini AI
 
-View your app in AI Studio: https://ai.studio/apps/a8b1a9db-4a01-4531-9cc6-26be94590c62
+### ✨ Features
+- 🎨 **AI Portrait Generation** - Gemini AI se unique fantasy characters
+- 🃏 **Player Cards** - Yu-Gi-Oh style collectible card design
+- 🎒 **My Deck** - Save your favourite characters
+- 🧙‍♂️ 5 Fantasy Classes: Warrior, Mage, Rogue, Cleric, Alchemist
+- ⚡ Modern, Responsive & Interactive UI
 
-## Run Locally
+### 🚀 Tech Stack
+- **Frontend:** React.js, TypeScript, Vite
+- **Styling:** Tailwind CSS
+- **AI:** Google Gemini AI API
+- **Tools:** Git, GitHub, Vercel
 
-**Prerequisites:**  Node.js
+### 🔧 How to Run Locally
+```bash
+git clone https://github.com/Anushkayadav2006/fantasy-character-generator.git
+npm install
+npm run dev
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+
+
+🎯 What I Learned From This Project
+React Components & State ManagementTypeScript & API IntegrationModern UI/UX DesigningWorking with AI APIsGit & GitHub Project Deployment
+👩‍💻 About Me
+Anushka Yadav
+Diploma in Computer Science & Engineering (Final Year)
+Government Girls Polytechnic, Meja - Prayagraj
+Aspiring Software Developer | Tech Enthusiast
